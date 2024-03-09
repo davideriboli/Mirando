@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progetto Mirando.md",
+                "file": "Materiali e Riferimenti/Guide Runaway.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -77,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progetto Mirando.md",
+                "file": "Materiali e Riferimenti/Guide Runaway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progetto Mirando.md"
+                "file": "Materiali e Riferimenti/Guide Runaway.md"
               }
             }
           },
@@ -126,12 +127,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "8035e441c72295c0",
   "lastOpenFiles": [
-    "Materiali e Riferimenti/Guida Prompt.md",
+    "Materiali e Riferimenti/Guide Runaway.md",
     "Modelli",
     "Progetto Mirando.md",
     "Manoscritto_leopardiano.jpg",
