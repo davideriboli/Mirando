@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8035e441c72295c0",
+            "id": "c88c5d242f0dd44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materiali e Riferimenti/Guide Runaway.md",
+                "file": "Scene/03-TuDormi/03 - Tu dormi.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materiali e Riferimenti/Guide Runaway.md",
+                "file": "Scene/03-TuDormi/03 - Tu dormi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materiali e Riferimenti/Guide Runaway.md"
+                "file": "Scene/03-TuDormi/03 - Tu dormi.md"
               }
             }
           },
@@ -116,8 +116,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "428e3b8c8bd3774f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -126,26 +135,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "8035e441c72295c0",
+  "active": "c88c5d242f0dd44e",
   "lastOpenFiles": [
-    "Materiali e Riferimenti/Guide Runaway.md",
-    "Modelli",
+    "Scene/02-OhDonnaMia/02 - Oh donna mia.md",
+    "Scene/01-DolceEChiara/01 - Dolce e chiara.md",
+    "Scene/06-IntantoIoChieggo/06 - Intanto io chieggo.md",
+    "Scene/07-AhiPerLaVia/07 - Ahi per la via.md",
+    "Scene/05-QuestoDiFuSolenne/05 - Questo dì fu solenne.md",
+    "Materiali e Riferimenti/Testo Completo/La sera del dì di festa.md",
+    "Scene/10-TuttoEPaceESilenzio/10 - Tutto è pace e silenzio.md",
+    "La sera del dì di festa CHUNKS.md",
+    "Scene/09-OrDoveIlSuono/09 - Or dov'è il suono.md",
+    "Scene/10-TuttoEPaceESilenzio",
+    "Scene/08-EccoEFuggito/08 - Ecco è fuggito.md",
+    "Scene/09-OrDoveIlSuono",
+    "Scene/08-EccoEFuggito",
+    "Scene/07-AhiPerLaVia",
+    "Scene/06-IntantoIoChieggo",
+    "Scene/04-ATeLaSpeme/04 - A te la speme.md",
+    "Scene/05-QuestoDiFuSolenne",
+    "Scene/04-ATeLaSpeme",
+    "Scene/03-TuDormi/03 - Tu dormi.md",
+    "Scene/03-TuDormi",
+    "Scene/02-OhDonnaMia",
+    "Scene/01-DolceEChiara",
+    "Guide/Guide Runaway.md",
+    "README.md",
     "Progetto Mirando.md",
-    "Manoscritto_leopardiano.jpg",
-    "Manoscritto_leopardiano.jpg.crdownload",
-    "Materiali e Riferimenti/Testi/La sera del dì di festa.md",
-    "Materiali e Riferimenti/AudioVideo/ElioGermanoVideo.mp4",
-    "Materiali e Riferimenti/AudioVideo/CarmeloBene.mp3",
-    "Materiali e Riferimenti/AudioVideo/ArnoldoFoa.mp3",
-    "Materiali e Riferimenti/AudioVideo/VittorioGassman.mp3",
-    "Materiali e Riferimenti/AudioVideo/FrancoGraziosi.mp3",
-    "Materiali e Riferimenti/Immagini",
-    "Materiali e Riferimenti/Testi",
-    "Materiali e Riferimenti/AudioVideo"
+    "Manoscritto_leopardiano.jpg"
   ]
 }
