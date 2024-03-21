@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1e657cff3af0ff",
+        "id": "bb7ebc5000890f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "c88c5d242f0dd44e",
+            "id": "8317d109d154e0d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scene/03-TuDormi/03 - Tu dormi.md",
+                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scene/03-TuDormi/03 - Tu dormi.md",
+                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scene/03-TuDormi/03 - Tu dormi.md"
+                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md"
               }
             }
           },
@@ -135,13 +135,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "c88c5d242f0dd44e",
+  "active": "8317d109d154e0d2",
   "lastOpenFiles": [
+    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/RagazzaAddormentata.md",
+    "Guide e Strumenti Utili/StrumentiUtili.md",
+    "Guide e Strumenti Utili/Guide Runaway.md",
+    "Guide e Strumenti Utili/Guida Markdown.md",
+    "README.md",
     "Scene/02-OhDonnaMia/02 - Oh donna mia.md",
     "Scene/01-DolceEChiara/01 - Dolce e chiara.md",
     "Scene/06-IntantoIoChieggo/06 - Intanto io chieggo.md",
@@ -165,7 +171,6 @@
     "Scene/02-OhDonnaMia",
     "Scene/01-DolceEChiara",
     "Guide/Guide Runaway.md",
-    "README.md",
     "Progetto Mirando.md",
     "Manoscritto_leopardiano.jpg"
   ]
