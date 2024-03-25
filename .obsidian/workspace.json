@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7ebc5000890f0c",
+        "id": "3955ad9500a6fab7",
         "type": "tabs",
         "children": [
           {
-            "id": "8317d109d154e0d2",
+            "id": "0b3e2b42bc5ba4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md",
+                "file": "Ass.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 311.5
   },
   "right": {
     "id": "0640b44d87cd8dfa",
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md",
+                "file": "Ass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md"
+                "file": "Ass.md"
               }
             }
           },
@@ -135,25 +135,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8317d109d154e0d2",
+  "active": "0b3e2b42bc5ba4b7",
   "lastOpenFiles": [
+    "README.md",
+    "Ass.md",
+    "Materiali e Riferimenti/Testo Completo/La sera del dì di festa (capoversi).md",
+    "Materiali e Riferimenti/Testo Completo/La sera del dì di festa.md",
+    "Scene/01-DolceEChiara/01 - Dolce e chiara.md",
     "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/RagazzaAddormentata.md",
     "Guide e Strumenti Utili/StrumentiUtili.md",
     "Guide e Strumenti Utili/Guide Runaway.md",
     "Guide e Strumenti Utili/Guida Markdown.md",
-    "README.md",
     "Scene/02-OhDonnaMia/02 - Oh donna mia.md",
-    "Scene/01-DolceEChiara/01 - Dolce e chiara.md",
     "Scene/06-IntantoIoChieggo/06 - Intanto io chieggo.md",
     "Scene/07-AhiPerLaVia/07 - Ahi per la via.md",
     "Scene/05-QuestoDiFuSolenne/05 - Questo dì fu solenne.md",
-    "Materiali e Riferimenti/Testo Completo/La sera del dì di festa.md",
     "Scene/10-TuttoEPaceESilenzio/10 - Tutto è pace e silenzio.md",
     "La sera del dì di festa CHUNKS.md",
     "Scene/09-OrDoveIlSuono/09 - Or dov'è il suono.md",
