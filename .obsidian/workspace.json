@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3955ad9500a6fab7",
+        "id": "73ba79a566111f52",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3e2b42bc5ba4b7",
+            "id": "c4327d64afef39a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ass.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ass.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ass.md"
+                "file": "README.md"
               }
             }
           },
@@ -141,15 +141,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b3e2b42bc5ba4b7",
+  "active": "c4327d64afef39a9",
   "lastOpenFiles": [
+    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/RagazzaAddormentata.md",
+    "Materiali e Riferimenti/RegistroProduzione/Collina/Collina.md",
+    "Materiali e Riferimenti/RegistroProduzione/Collina",
+    "Materiali e Riferimenti/RegistroProduzione/Collina/Anim_01.mp4",
     "README.md",
-    "Ass.md",
+    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/Anim_02.mp4",
+    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/02.jpg",
+    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/01.jpg",
+    "Guide e Strumenti Utili/StrumentiUtili.md",
+    "Materiali e Riferimenti/RiferimentiStilistici/RiferimentiStilistici.md",
+    "Materiali e Riferimenti/Sceneggiatura",
+    "Materiali e Riferimenti/Sceneggiatura/LibereAssociazioni.md",
     "Materiali e Riferimenti/Testo Completo/La sera del dì di festa (capoversi).md",
     "Materiali e Riferimenti/Testo Completo/La sera del dì di festa.md",
     "Scene/01-DolceEChiara/01 - Dolce e chiara.md",
-    "Materiali e Riferimenti/RegistroProduzione/Ragazza Addormentata/RagazzaAddormentata.md",
-    "Guide e Strumenti Utili/StrumentiUtili.md",
     "Guide e Strumenti Utili/Guide Runaway.md",
     "Guide e Strumenti Utili/Guida Markdown.md",
     "Scene/02-OhDonnaMia/02 - Oh donna mia.md",
@@ -167,11 +175,7 @@
     "Scene/06-IntantoIoChieggo",
     "Scene/04-ATeLaSpeme/04 - A te la speme.md",
     "Scene/05-QuestoDiFuSolenne",
-    "Scene/04-ATeLaSpeme",
     "Scene/03-TuDormi/03 - Tu dormi.md",
-    "Scene/03-TuDormi",
-    "Scene/02-OhDonnaMia",
-    "Scene/01-DolceEChiara",
     "Guide/Guide Runaway.md",
     "Progetto Mirando.md",
     "Manoscritto_leopardiano.jpg"
